@@ -1,0 +1,12 @@
+/home/albertbuh/DataStruct/Deque/bin/Debug/net7.0/Deque.deps.json
+/home/albertbuh/DataStruct/Deque/bin/Debug/net7.0/Deque.dll
+/home/albertbuh/DataStruct/Deque/bin/Debug/net7.0/Deque.pdb
+/home/albertbuh/DataStruct/Deque/obj/Debug/net7.0/Deque.csproj.AssemblyReference.cache
+/home/albertbuh/DataStruct/Deque/obj/Debug/net7.0/Deque.GeneratedMSBuildEditorConfig.editorconfig
+/home/albertbuh/DataStruct/Deque/obj/Debug/net7.0/Deque.AssemblyInfoInputs.cache
+/home/albertbuh/DataStruct/Deque/obj/Debug/net7.0/Deque.AssemblyInfo.cs
+/home/albertbuh/DataStruct/Deque/obj/Debug/net7.0/Deque.csproj.CoreCompileInputs.cache
+/home/albertbuh/DataStruct/Deque/obj/Debug/net7.0/Deque.dll
+/home/albertbuh/DataStruct/Deque/obj/Debug/net7.0/refint/Deque.dll
+/home/albertbuh/DataStruct/Deque/obj/Debug/net7.0/Deque.pdb
+/home/albertbuh/DataStruct/Deque/obj/Debug/net7.0/ref/Deque.dll

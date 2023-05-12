@@ -1,0 +1,12 @@
+/home/albertbuh/DataStruct/Stack/bin/Debug/net7.0/Stack.deps.json
+/home/albertbuh/DataStruct/Stack/bin/Debug/net7.0/Stack.dll
+/home/albertbuh/DataStruct/Stack/bin/Debug/net7.0/Stack.pdb
+/home/albertbuh/DataStruct/Stack/obj/Debug/net7.0/Stack.csproj.AssemblyReference.cache
+/home/albertbuh/DataStruct/Stack/obj/Debug/net7.0/Stack.GeneratedMSBuildEditorConfig.editorconfig
+/home/albertbuh/DataStruct/Stack/obj/Debug/net7.0/Stack.AssemblyInfoInputs.cache
+/home/albertbuh/DataStruct/Stack/obj/Debug/net7.0/Stack.AssemblyInfo.cs
+/home/albertbuh/DataStruct/Stack/obj/Debug/net7.0/Stack.csproj.CoreCompileInputs.cache
+/home/albertbuh/DataStruct/Stack/obj/Debug/net7.0/Stack.dll
+/home/albertbuh/DataStruct/Stack/obj/Debug/net7.0/refint/Stack.dll
+/home/albertbuh/DataStruct/Stack/obj/Debug/net7.0/Stack.pdb
+/home/albertbuh/DataStruct/Stack/obj/Debug/net7.0/ref/Stack.dll

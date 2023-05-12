@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9AM5lNAQibS2gX2L3y1ATKFIQ7ctw+M/ahTSF/+Y4k0jHTtO0fy+mWnYzlNV2q+176+c++wb5CVKjCz9TKKbbA==",
+  "success": true,
+  "projectFilePath": "/home/albertbuh/DataStruct/Stack/Stack.csproj",
+  "expectedPackageFiles": [
+    "/home/albertbuh/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

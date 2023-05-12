@@ -1,0 +1,12 @@
+/home/albertbuh/DataStruct/DLinkList/bin/Debug/net7.0/DLinkList.deps.json
+/home/albertbuh/DataStruct/DLinkList/bin/Debug/net7.0/DLinkList.dll
+/home/albertbuh/DataStruct/DLinkList/bin/Debug/net7.0/DLinkList.pdb
+/home/albertbuh/DataStruct/DLinkList/obj/Debug/net7.0/DLinkList.csproj.AssemblyReference.cache
+/home/albertbuh/DataStruct/DLinkList/obj/Debug/net7.0/DLinkList.GeneratedMSBuildEditorConfig.editorconfig
+/home/albertbuh/DataStruct/DLinkList/obj/Debug/net7.0/DLinkList.AssemblyInfoInputs.cache
+/home/albertbuh/DataStruct/DLinkList/obj/Debug/net7.0/DLinkList.AssemblyInfo.cs
+/home/albertbuh/DataStruct/DLinkList/obj/Debug/net7.0/DLinkList.csproj.CoreCompileInputs.cache
+/home/albertbuh/DataStruct/DLinkList/obj/Debug/net7.0/DLinkList.dll
+/home/albertbuh/DataStruct/DLinkList/obj/Debug/net7.0/refint/DLinkList.dll
+/home/albertbuh/DataStruct/DLinkList/obj/Debug/net7.0/DLinkList.pdb
+/home/albertbuh/DataStruct/DLinkList/obj/Debug/net7.0/ref/DLinkList.dll

@@ -1,0 +1,12 @@
+/home/albertbuh/DataStruct/MyQueue/bin/Debug/net7.0/MyQueue.deps.json
+/home/albertbuh/DataStruct/MyQueue/bin/Debug/net7.0/MyQueue.dll
+/home/albertbuh/DataStruct/MyQueue/bin/Debug/net7.0/MyQueue.pdb
+/home/albertbuh/DataStruct/MyQueue/obj/Debug/net7.0/MyQueue.csproj.AssemblyReference.cache
+/home/albertbuh/DataStruct/MyQueue/obj/Debug/net7.0/MyQueue.GeneratedMSBuildEditorConfig.editorconfig
+/home/albertbuh/DataStruct/MyQueue/obj/Debug/net7.0/MyQueue.AssemblyInfoInputs.cache
+/home/albertbuh/DataStruct/MyQueue/obj/Debug/net7.0/MyQueue.AssemblyInfo.cs
+/home/albertbuh/DataStruct/MyQueue/obj/Debug/net7.0/MyQueue.csproj.CoreCompileInputs.cache
+/home/albertbuh/DataStruct/MyQueue/obj/Debug/net7.0/MyQueue.dll
+/home/albertbuh/DataStruct/MyQueue/obj/Debug/net7.0/refint/MyQueue.dll
+/home/albertbuh/DataStruct/MyQueue/obj/Debug/net7.0/MyQueue.pdb
+/home/albertbuh/DataStruct/MyQueue/obj/Debug/net7.0/ref/MyQueue.dll

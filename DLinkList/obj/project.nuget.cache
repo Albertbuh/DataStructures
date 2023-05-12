@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XvpJU/Vkv5MpJ5EonvvDSxsKLcYSa0azdW8Le8gzzM08jTPFfQ0+Hi4Ihax6OcoNAtIomRyHnASALOxY96nvqA==",
+  "success": true,
+  "projectFilePath": "/home/albertbuh/DataStruct/DLinkList/DLinkList.csproj",
+  "expectedPackageFiles": [
+    "/home/albertbuh/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
