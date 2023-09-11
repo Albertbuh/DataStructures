@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RyvX6JkUb0loeuKnaQeZZXpkSKHTGPvnt0iooJM+/9+NHuvGfd3bzwx0Mp7rBeDxjkl/Wbo3kynfL/STy/hPrQ==",
+  "success": true,
+  "projectFilePath": "/home/albertbuh/projects/algorithms/dataStructures/MinHeap/MinHeap.csproj",
+  "expectedPackageFiles": [
+    "/home/albertbuh/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

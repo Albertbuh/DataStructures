@@ -1,0 +1,15 @@
+/home/albertbuh/projects/algorithms/dataStructures/MinHeap/bin/Debug/net7.0/MinHeap
+/home/albertbuh/projects/algorithms/dataStructures/MinHeap/bin/Debug/net7.0/MinHeap.deps.json
+/home/albertbuh/projects/algorithms/dataStructures/MinHeap/bin/Debug/net7.0/MinHeap.runtimeconfig.json
+/home/albertbuh/projects/algorithms/dataStructures/MinHeap/bin/Debug/net7.0/MinHeap.dll
+/home/albertbuh/projects/algorithms/dataStructures/MinHeap/bin/Debug/net7.0/MinHeap.pdb
+/home/albertbuh/projects/algorithms/dataStructures/MinHeap/obj/Debug/net7.0/MinHeap.csproj.AssemblyReference.cache
+/home/albertbuh/projects/algorithms/dataStructures/MinHeap/obj/Debug/net7.0/MinHeap.GeneratedMSBuildEditorConfig.editorconfig
+/home/albertbuh/projects/algorithms/dataStructures/MinHeap/obj/Debug/net7.0/MinHeap.AssemblyInfoInputs.cache
+/home/albertbuh/projects/algorithms/dataStructures/MinHeap/obj/Debug/net7.0/MinHeap.AssemblyInfo.cs
+/home/albertbuh/projects/algorithms/dataStructures/MinHeap/obj/Debug/net7.0/MinHeap.csproj.CoreCompileInputs.cache
+/home/albertbuh/projects/algorithms/dataStructures/MinHeap/obj/Debug/net7.0/MinHeap.dll
+/home/albertbuh/projects/algorithms/dataStructures/MinHeap/obj/Debug/net7.0/refint/MinHeap.dll
+/home/albertbuh/projects/algorithms/dataStructures/MinHeap/obj/Debug/net7.0/MinHeap.pdb
+/home/albertbuh/projects/algorithms/dataStructures/MinHeap/obj/Debug/net7.0/MinHeap.genruntimeconfig.cache
+/home/albertbuh/projects/algorithms/dataStructures/MinHeap/obj/Debug/net7.0/ref/MinHeap.dll
